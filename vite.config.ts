@@ -4,7 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-  return {base
+  return {
+    base: '/Argon-Search/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
