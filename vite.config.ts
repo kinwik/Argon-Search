@@ -20,3 +20,5 @@ export default defineConfig(() => {
     },
   };
 });
+base: '/Argon-Search/',
+  
