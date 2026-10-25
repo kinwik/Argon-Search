@@ -1,0 +1,6 @@
+{
+  "name": "Argon Search",
+  "description": "Интеллектуальный поисковик с Web AI, Google Search Grounding и мгновенным синтезом проверенных источников.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
